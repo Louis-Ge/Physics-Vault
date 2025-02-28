@@ -21,23 +21,16 @@ $$
 Lab calculations
 $$
 \begin{align*}
-    a_{1} & =\SI{9.8}{\frac{m}{s^{2}}}\\
-\\
-\mathbf{a_{2}} & =\boldsymbol{\alpha}\times \frac{l}{2} \\
-a_{2} & =\left( \SI{12.05}{\frac{\text{rad}}{s^{2}}} \right)\left( \frac{\SI{1.22}{m}}{2} \right) \\
-a_{2} & \approx \boxed{ \SI{7.35}{\frac{m}{s^{2}}} } \\
- \\
-\mathbf{a_{3}} & =\boldsymbol{\alpha} \times 0 \\
-a_{3} & =\boxed{ 0 }
+\begin{array}{c|c|c}
+\mathrm{Know} & \mathrm{What} & \mathrm{How} \\\hline
+\boldsymbol{\alpha}=\frac{3\mathbf{g}}{2l}\hat{\boldsymbol{\theta}} & \mathbf{a}_{1,2,3} & \mathbf{a}=\boldsymbol{\alpha} \times \mathbf{r}
+\end{array}
 \end{align*}
-
-\problem{2}
-
-
+$$
+$$
 \begin{align*}
-\tau & =I\alpha \\
-mgx_{cm} & =\frac{1}{3}mR^{2}\alpha \\
-\frac{{3gx_{cm}}}{R^{2}} & =\alpha \\
-\alpha & \approx \boxed{ \SI{12.05}{\frac{\text{rad}}{s^{2}}} }
+\underline{\mathbf{a}_{1}:}\quad \mathbf{a}_{\text{beam}} & =\frac{3\mathbf{g}}{2l} \\
+\mathbf{a}_{\text{beam}} & =\frac{3g}{2}>g \\
+\therefore\quad F_{\text{net}}=F_{g}\quad\implies \quad\boxed{  }
 \end{align*}
 $$
