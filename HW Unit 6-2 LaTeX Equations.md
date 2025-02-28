@@ -45,5 +45,8 @@ $$
 \end{align*}
 $$
 $$
-\mathbf{a}_{3}:\quad \mathbf{a}_{\text{beam}}
+\begin{align*}
+\mathbf{a}_{3}:\quad \mathbf{a}_{\text{beam}}&\approx\frac{3\mathbf{g}}{2l}\times \mathbf{0}<\mathbf{g} \\
+\therefore\quad\mathbf{a}_{\text{beam}}&=\boxed{ \mathbf{a}_{3}=\mathbf{0} }
+\end{align*}
 $$
