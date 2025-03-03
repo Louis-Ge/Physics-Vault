@@ -1,0 +1,1 @@
+Force exerted between charged objects. For charged particles, this force obeys [[Coulomb's Law]].
