@@ -13,7 +13,10 @@ for particle 1 ($\hat{\mathbf{r}}$ points away from particle 2 radially.)
 -> Coulomb's Law looks a lot like the [[Law of Gravitation]].
 - $F\propto \frac{1}{r^{2}}$
 - Depends on product of a property of the interacting particles (mass vs. charge)
-However, gravity is always attractive, unlike electrostatic force.
+- Gravity is always attractive, unlike electrostatic force.
+- Both have shell theories:
+	- Charged particle outside a uniform charged shell experiences the same net force as if all charge was concentrated at the center of the shell (same for gravity).
+	- Charged particle inside a uniform charged shell experiences **no** net force (as with gravity).
 
 ## Units
 Units of charge are **Coulombs (C)**.
