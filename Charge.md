@@ -8,7 +8,7 @@ EX: A particle could have charge $-6e$ or $10e$ but not $3.55e$.
 The elementary charge is that of an electron (-) or a proton (+).
 
 ### Conservation of Charge
-Charge is a conserved quantity
+Charge is a conserved quantity.
 
 In atomic decay:
 - Of course the number of protons and electrons are the same before and after, so charge is conserved
