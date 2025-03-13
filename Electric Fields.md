@@ -14,4 +14,11 @@ Rules for field lines:
 $\vec{E}$ fields follow the superposition principle, meaning the net electric field at a point inside more than one field will simply be the **vector sum** of the fields at that point.
 
 ### Field of a Dipole
-A **dipole** is a set of two particles with the same charge. $\vec{E}{\mathrm{net}}$ on the dipole axis (line through both particles) can be written as $E=E_{+}-E_{-}$
+A **dipole** is a set of two particles with the same charge. $\vec{E}{\mathrm{net}}$ on the dipole axis (line through both particles) can be written as $E=E_{+}-E_{-}$ which becomes (after algebra): $$
+E=\frac{1}{2\pi\epsilon_{0}} \frac{qd}{z^{3}}
+$$
+	$d$ is distance between dipole charges
+	$z$ is position on dipole axis
+	**Important**: this is an approximation that assumes $z\gg d$ (the point is very far from the dipole).
+
+The quantity $\vec{p}=q\vec{d}$ is called the **electric dipole moment** (units $\mathrm{C}\cdot \mathrm{m}$). It points from the negative end to the positive end of the dipole.
