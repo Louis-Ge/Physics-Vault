@@ -19,6 +19,7 @@ E=\frac{1}{2\pi\epsilon_{0}} \frac{qd}{z^{3}}
 $$
 	$d$ is distance between dipole charges
 	$z$ is position on dipole axis
-	**Important**: this is an approximation that assumes $z\gg d$ (the point is very far from the dipole).
+	**Important**: this is an approximation that assumes $z\gg d$ (the point is very far from the dipole). $E$ also varies with $\frac{1}{z^{3}}$ for points not on the dipole axis but at a similar distance.
 
 The quantity $\vec{p}=q\vec{d}$ is called the **electric dipole moment** (units $\mathrm{C}\cdot \mathrm{m}$). It points from the negative end to the positive end of the dipole.
+	This means $q$ and $d$ can never be found alone; only the dipole moment, their product, is calculable.
