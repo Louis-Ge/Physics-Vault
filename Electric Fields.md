@@ -9,4 +9,4 @@ Rules for field lines:
 3. Field lines go **from** positive **to** negative.
 
 ## Interaction of E fields
-$\vec{E}$ fields follow the superposition principle, meaning the net electric field at a point inside more than one field will simply be the **vector sum** of the fields at that point.
+$\vec{E}$ fields follow the superposition principle, meaning the net electric field at a point inside more than one field will simply be the **vector sum** of the fields at that point. 
