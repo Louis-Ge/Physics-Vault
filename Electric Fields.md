@@ -1,5 +1,7 @@
 The electric field for a charged object is a vector field of the form $\vec{E}=\frac{\vec{F_{E}}}{q_{0}}$, where $q_{0}$ is a (positive) test [[charge]]. The value of $\vec{E}$ at any point is gives the direction and relative magnitude of the [[electrostatic force]] on a positively charged particle at that point.
 
+Units: $\mathrm{\frac{N}{C}}$
+
 ## Field Lines
 Invented by Faraday for easier visualization of $\vec{E}$.
 Rules for field lines:
@@ -9,4 +11,7 @@ Rules for field lines:
 3. Field lines go **from** positive **to** negative.
 
 ## Interaction of E fields
-$\vec{E}$ fields follow the superposition principle, meaning the net electric field at a point inside more than one field will simply be the **vector sum** of the fields at that point. 
+$\vec{E}$ fields follow the superposition principle, meaning the net electric field at a point inside more than one field will simply be the **vector sum** of the fields at that point.
+
+### Field of a Dipole
+A **dipole** is a set of two particles with the same charge. $\vec{E}{\mathrm{net}}$ on the dipole axis (line through both particles) can be written as $E=E_{+}-E_{-}$
