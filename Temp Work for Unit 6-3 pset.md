@@ -1,7 +1,7 @@
 $$
 \begin{align*}
-I_{f}\omega_{f} & =r m_{P}v_{P}+I_{i}\omega_{i} \\
-\omega_{f} & =\frac{r m_{P}v_{P}+I_{i}\omega_{i}}{I_{f}} \\
-\omega_{f} & =(\SI{2.63}{m})(\SI{59.4}{kg})\left( \SI{3.41}{\frac{m}{s}} \right)+\frac{1}{2}
+KE_{i} & =\frac{1}{2}m_{P}v_{P}^{2}+\frac{1}{2}I_{i}\omega_{i}^{2} \\
+KE_{i} & =\frac{1}{2}(\SI{59.4}{kg})\left( \SI{3.41}{\frac{m}{s}} \right)^{2}+\frac{1}{2}\left[\frac{1}{2}(\SI{155}{kg})(\SI{2.63}{m})^{2}\right][(\SI{0.6}{})] \\
+
 \end{align*}
 $$
