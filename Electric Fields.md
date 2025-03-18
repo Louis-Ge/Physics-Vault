@@ -15,8 +15,7 @@ $\vec{E}$ fields follow the superposition principle, meaning the net electric fi
 
 ### Field of a Dipole
 A **dipole** is a set of two particles with the same charge. $\vec{E}{\mathrm{net}}$ on the dipole axis (line through both particles) can be written as $E=E_{+}-E_{-}$ which becomes (after algebra): $$
-E=\frac{1}{2\pi\epsilon_{0}} \frac{qd}{z^{3}}
-$$
+E=\frac{1}{2\pi\epsilon_{0}} \frac{qd}{z^{3}}$$
 	$d$ is distance between dipole charges
 	$z$ is position on dipole axis
 	**Important**: this is an approximation that assumes $z\gg d$ (the point is very far from the dipole). $E$ also varies with $\frac{1}{z^{3}}$ for points not on the dipole axis but at a similar distance.
