@@ -1,13 +1,12 @@
 $$
 \begin{align*}
-KE_{i} & =\frac{1}{2}I_{i}\omega_{i}^{2} \\
-KE_{i} & =\frac{1}{2}(I_{0}+2mr_{i}^{2})\omega_{i}^{2} \\
-KE_{i} & =\frac{1}{2}[\SI{5.43}{kg\cdot m^{2}}+2(\SI{1.25}{kg})(\SI{0.759}{m})^{2}]\left( \SI{2.95}{\frac{rev}{s}} \right)^{2} \\
-KE_{i} & \approx \boxed{ \SI{29.89}{J} } \\
+\tau & =rF_{T} \\
+\tau & =(\SI{2.74}{m})(\SI{36.1}{N}) \\
+\tau & \approx \SI{98.9}{N\cdot m} \\
  \\
-KE_{f} & =\frac{1}{2}I_{f}\omega_{f}^{2}  \\
-KE_{f} & =\frac{1}{2}(I_{0}+2mr_{f}^{2})\omega_{f}^{2} \\
-KE_{f} & =\frac{1}{2}[\SI{5.43}{kg\cdot m^{2}}+2(\SI{1.25}{kg})(\SI{0.34}{m})^{2}]\left( \SI{3.54}{\frac{rev}{s}} \right)^{2} \\
-KE_{f} & \approx \boxed{ \SI{}{} }
+\omega_{f}^{2} & =\cancel{ \omega_{i}^{2} }+2\alpha \Delta\theta \\
+\omega _{f}^{2} & =2\left( \frac{\tau}{\frac{1}{2}mr^{2}} \right)\Delta\theta \\
+\omega_{f} & =\sqrt{ 2\left( \frac{\SI{98.9}{N\cdot m}}{\frac{1}{2}(\SI{167}{kg})(\SI{2.74}{m})^{2}} \right)\left[ \frac{32.5^{\circ}}{1}\left( \frac{\pi\,\mathrm{rad}}{180^{\circ}} \right) \right] } \\
+\omega_{f} & \approx \boxed{ \SI{0.42}{\frac{rad}{s}} }
 \end{align*}
 $$
