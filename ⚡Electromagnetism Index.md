@@ -3,3 +3,5 @@
 - [[Electrostatic Force]]
 - [[Charge]]
 - [[Electric Fields]]
+- [[Electric Flux]]
+- [[Gauss's Law]]
